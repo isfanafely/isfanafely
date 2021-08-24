@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @isfanafely
 - 👀 I’m interested in data science, data visualization, machine learning, software testing
-- 🌱 I’m currently learning python, r, sql, postman api
-- 💞️ I’m looking to collaborate on data science, machine learning, postman api
+- 🌱 I’m currently learning python, r, sql, postman
+- 💞️ I’m looking to collaborate on data science, machine learning, postman
 
 ### Connect with me:
 
