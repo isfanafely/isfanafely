@@ -27,7 +27,7 @@
 [<img align="left" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" title="Keras"/>][languages]
 
 [<img align="left" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" title="Numpy"/>][languages]
-
+[<img align="left" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" title="Selenium"/>][languages]
 [<img align="left" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" title="Scikit-learn"/>][languages]
 &nbsp;
 
@@ -42,9 +42,11 @@
 &nbsp;
 [<img align="left" src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" title="RStudio"/>][program]
 &nbsp;
-[<img align="left" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" title="Postman"/>][program]
+[<img align="left" src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" title="Conda"/>][program]
 
-  
+[<img align="left" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" title="Postman"/>][program]
+&nbsp;
+ 
 ### Donation:
 
 [<img align="left" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />][paypal]
