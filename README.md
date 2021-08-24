@@ -6,9 +6,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="isfanafely | Twitter" width="100x" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+[<img align="left" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 &nbsp;
-[<img align="left" alt="isfanafely | LinkedIn" width="110px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
 <a name="languages-used"></a>
 
@@ -18,7 +18,7 @@
 &nbsp;
 [<img align="left" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" title="R"/>][languages]
 &nbsp;
-[<img align="left" src="https://img.shields.io/badge/mysql-%22376DC3.svg?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL"/>][languages]
+[<img align="left" src="https://img.shields.io/badge/mysql-%23376DC3.svg?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL"/>][languages]
 
 <a name="program-used"></a>
 
