@@ -14,11 +14,11 @@
 
 ### Languages :
 
-[<img align="left" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" title="Python" />][languages]
+[<img align="left" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white" title="Python" />][languages]
 &nbsp;
 [<img align="left" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" title="R"/>][languages]
 &nbsp;
-[<img align="left" src="https://img.shields.io/badge/mysql-%22300f.svg?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL"/>][languages]
+[<img align="left" src="https://img.shields.io/badge/mysql-%23276DC3.svg?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL"/>][languages]
 
 <a name="program-used"></a>
 
