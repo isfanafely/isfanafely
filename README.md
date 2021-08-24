@@ -24,7 +24,7 @@
 
 [<img align="left" alt="isfanafely | Pycharm" width="100px" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />]
 [<img align="left" alt="isfanafely | Spyder" width="100px" src="https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon" />]
-[<img align="left" alt="isfanafely | RStudio" width="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" />]
+[<img align="left" alt="isfanafely | RStudio" width="100px" src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" />]
 
 <br />
 
