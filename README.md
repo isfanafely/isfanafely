@@ -36,12 +36,13 @@
   
 ### Donation:
 
-[<img align="left" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />][donation]
+[<img align="left" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />][donation][paypal]
 &nbsp;
 [<img align="left" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />][donation]
 
 [twitter]: https://twitter.com/isfanafely
 [linkedin]: https://linkedin.com/in/isfanafely
+[paypal]: paypal.me/isfanafelyID
 [languages]: #languages-used
 [program]: #program-used
 [donation]: #donation-platform
