@@ -24,7 +24,7 @@
 
 ### Tools :
 
-[<img align="left" src="https://img.shields.io/badge/PyCharm-020000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" title="Pycharm"/>][program]
+[<img align="left" src="https://img.shields.io/badge/PyCharm-808080.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" title="Pycharm"/>][program]
 &nbsp;
 [<img  align="left" src="https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon" title="Spyder"/>][program]
 &nbsp;
