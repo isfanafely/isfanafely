@@ -11,6 +11,8 @@
 &nbsp;
 [<img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
 &nbsp;
+<img align="left"  height="27px" src="https://img.shields.io/badge/-Fiverr-1DBF73?style=flat-square&logo=Fiverr&logoColor=white&link=https://www.fiverr.com/felyisfana" />
+&nbsp;
 
 <a name="languages-used"></a>
 
