@@ -18,7 +18,7 @@
 &nbsp;
 [<img align="left" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" title="R"/>][languages]
 &nbsp;
-[<img align="left" src="https://img.shields.io/badge/mysql-%23376DC3.svg?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL"/>][languages]
+[<img align="left" src="https://img.shields.io/badge/mysql-%23576DC3.svg?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL"/>][languages]
 
 <a name="program-used"></a>
 
