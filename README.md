@@ -15,7 +15,7 @@
 
 [<img align="left" width="100x" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />][languages]
 &nbsp;
-[<img align="left" width="100px" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" />][languages]
+[<img align="left" width="100px" height="50px" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" />][languages]
 &nbsp;
 [<img align="left" width="100px" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />][languages]
 
