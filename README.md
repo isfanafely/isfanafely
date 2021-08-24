@@ -9,6 +9,8 @@
 [<img align="left" alt="isfanafely | Twitter" width="100x" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img align="left" alt="isfanafely | LinkedIn" width="110px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
+<br />
+<br />
 
 ### Languages :
 
@@ -16,7 +18,8 @@
 <img align="left" width="100px" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" />
 <img align="left" width="100px" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 
-
+<br />
+<br />
 
 ### Tools :
 
@@ -26,6 +29,8 @@
 <img align="left"  width="100px" src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" />
 <img align="left"  width="100px" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 
+<br />
+<br />
 
 ### Donation:
 
