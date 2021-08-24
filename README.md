@@ -9,6 +9,9 @@
 [<img align="left" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 &nbsp;
 [<img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+&nbsp;
+[<img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
+&nbsp;
 
 <a name="languages-used"></a>
 
@@ -55,7 +58,7 @@
 &nbsp;
 [<img align="right" src="https://github.com/isfanafely/isfanafely/blob/main/aa.svg" width="30%" heigth="30%"/>][saweria]
 
-
+[gmail]: https://felyisfana1@gmail.com
 [twitter]: https://twitter.com/isfanafely
 [linkedin]: https://linkedin.com/in/isfanafely
 [paypal]: https://paypal.me/isfanafelyID
