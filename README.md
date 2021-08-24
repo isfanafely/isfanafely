@@ -38,7 +38,7 @@
 [<img align="left" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />][paypal]
 &nbsp;
 
-[<img </center> src="https://github.com/isfanafely/isfanafely/blob/main/aa.svg" width="30%" heigth="30%"/>][saweria]
+[<img src="https://github.com/isfanafely/isfanafely/blob/main/aa.svg" width="30%" heigth="30%"/>][saweria]
 
 
 [twitter]: https://twitter.com/isfanafely
