@@ -12,13 +12,28 @@
 
 <a name="languages-used"></a>
 
-### Languages :
+### Languages and Modules :
 
 [<img align="left" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white" title="Python" />][languages]
 &nbsp;
 [<img align="left" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" title="R"/>][languages]
 &nbsp;
 [<img align="left" src="https://img.shields.io/badge/mysql-%23576DC3.svg?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL"/>][languages]
+&nbsp;
+[<img align="left" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" title="Pandas"/>][languages]
+&nbsp;
+[<img align="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" title="Tensorflow"/>][languages]
+&nbsp;
+[<img align="left" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" title="Keras"/>][languages]
+&nbsp;
+[<img align="left" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" title="Numpy"/>][languages]
+&nbsp;
+[<img align="left" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" title="Numpy"/>][languages]
+&nbsp;
+[<img align="left" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" title="Scikit-learn"/>][languages]
+&nbsp;
+[<img align="left" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" title="Numpy"/>][languages]
+&nbsp;
 
 <a name="program-used"></a>
 
