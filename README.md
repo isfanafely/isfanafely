@@ -41,15 +41,15 @@
 
 <br />
 
-<table align="center" widht="100%">
+<table align="center">
   <tr>
     <th align="center" colspan="5"><a valign="middle">Tools</a></th>
   <tr>
-    <td align="center"><a href="https://www.jetbrains.com/pycharm/"</a><img valign="middle" src="https://img.shields.io/badge/PyCharm-4B4B4B.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" title="Pycharm" style="width:150%;"/></td>
-    <td align="center"><a href="https://www.spyder-ide.org/"</a><img valign="middle" src="https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon" title="Spyder" style="width:150%;"/></td> 
+    <td align="center"><a href="https://www.jetbrains.com/pycharm/"</a><img valign="middle" src="https://img.shields.io/badge/PyCharm-4B4B4B.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" title="Pycharm" style="width:100%;"/></td>
+    <td align="center"><a href="https://www.spyder-ide.org/"</a><img valign="middle" src="https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon" title="Spyder" style="width:100%;"/></td> 
     <td align="center"><a href="https://www.rstudio.com/"</a><img valign="middle" src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" title="RStudio" style="width:150%;"/></td>
-    <td align="center"><a href="https://docs.conda.io/en/latest/"</a><img valign="middle" src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" title="Conda" style="width:150%;"/></td>
-    <td align="center"> <a href="https://www.postman.com/"</a><img valign="middle" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" title="Postman" style="width:150%;"/></td>
+    <td align="center"><a href="https://docs.conda.io/en/latest/"</a><img valign="middle" src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" title="Conda" style="width:100%;"/></td>
+    <td align="center"> <a href="https://www.postman.com/"</a><img valign="middle" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" title="Postman" style="width:100%;"/></td>
   </tr>
   </tr>
 </table>
