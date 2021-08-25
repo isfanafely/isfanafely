@@ -14,6 +14,8 @@
 [<img align="left"  height="27px" src="https://img.shields.io/badge/-Fiverr-1DBF73?style=flat-square&logo=Fiverr&logoColor=white" />][fiverr]
 &nbsp;
 
+</br>
+
 <a name="languages-used"></a>
 
 ### Languages and Modules :
@@ -29,14 +31,15 @@
 [<img align="left" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" title="Tensorflow"/>][languages]
 &nbsp;
 [<img align="left" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" title="Keras"/>][languages]
-
+&nbsp;
 [<img align="left" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" title="Scikit-learn"/>][languages]
-
+&nbsp;
 [<img align="left" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" title="Selenium"/>][languages]
-
+&nbsp;
 [<img align="left" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" title="Numpy"/>][languages]
 &nbsp;
 
+</br>
 
 <a name="program-used"></a>
 
@@ -49,16 +52,18 @@
 [<img align="left" src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" title="RStudio"/>][program]
 &nbsp;
 [<img align="left" src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" title="Conda"/>][program]
-
+&nbsp;
 [<img align="left" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" title="Postman"/>][program]
 &nbsp;
+
+ </br>
  
 ### Donation:
 
 [<img align="left" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />][paypal]
 &nbsp;
 [<img align="right" src="https://github.com/isfanafely/isfanafely/blob/main/aa.svg" width="30%" heigth="30%"/>][saweria]
-
+&nbsp;
 [gmail]: https://felyisfana1@gmail.com
 [twitter]: https://twitter.com/isfanafely
 [linkedin]: https://linkedin.com/in/isfanafely
