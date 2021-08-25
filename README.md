@@ -41,7 +41,7 @@
 
 <br />
 
-<table align="center">
+<table align="center" widht="100%">
   <tr>
     <th align="center" colspan="5"><a valign="middle">Tools</a></th>
   <tr>
