@@ -5,8 +5,6 @@
 - 🌱 I’m currently learning python, r, sql, postman
 - 💞️ I’m looking to collaborate on data science, machine learning, postman
 
-
-
 ### Connect with me:
 
 [<img align="left" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" style="width:100%;" />][twitter]
@@ -16,29 +14,30 @@
 [<img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="width:100%;" />][gmail]
 
 [<img align="left"  height="27px" src="https://img.shields.io/badge/-Fiverr-1DBF73?style=flat-square&logo=Fiverr&logoColor=white" style="width:100%;" />][fiverr]
+
 <br />
 
-<a name="languages-used"></a>
+
 ### Languages and Modules :
 
-[<img align="left" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white" title="Python" style="width:100%;" />][languages]
+<table align="center" widht="100%">
+  <tr>
+    <th align="center"><img align="center" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white" title="Python" style="width:100%;"/></th>
+    <th align="center"><img align="center" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" title="R" style="width:100%;"/></th> 
+    <th align="center"><img align="center" src="https://img.shields.io/badge/mysql-%23576DC3.svg?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL" style="width:100%;"/></th>
+  </tr>
+  <tr>
+    <td align="center"><img align="center" src="https://img.shields.io/badge/pandas-7900D8.svg?style=for-the-badge&logo=pandas&logoColor=white" title="Pandas" style="width:100%;"/></td>
+    <td align="center"><img align="center" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" title="Tensorflow" style="width:100%;"/></td>
+    <td align="center"><img align="center" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" title="Keras" style="width:100%;"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img align="center" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" title="Scikit-learn" tyle="width:100%;height:100%"/></td>
+    <td align="center"><img align="center" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" title="Selenium" style="width:100%;"/></td>
+    <td align="center"><img align="center" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" title="Numpy" style="width:100%;"/></td>
+  </tr>
+</table>
 
-[<img align="left" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" title="R" style="width:100%;" />][languages]
-
-[<img align="left" src="https://img.shields.io/badge/mysql-%23576DC3.svg?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL" style="width:100%;" />][languages]
-
-[<img align="left" src="https://img.shields.io/badge/pandas-7900D8.svg?style=for-the-badge&logo=pandas&logoColor=white" title="Pandas" style="width:100%;" />][languages]
-
-[<img align="left" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" title="Tensorflow" style="width:100%;"/>][languages]
-
-[<img align="left" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" title="Keras" style="width:100%;"/>][languages]
-
-[<img align="left" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" title="Scikit-learn" style="width:100%;height:100%"/>][languages]
-<br />
-
-[<img align="left" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" title="Selenium" style="width:100%;"/>][languages]
-
-[<img align="left" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" title="Numpy" style="width:100%;"/>][languages]
 <br />
 
 <a name="program-used"></a>
