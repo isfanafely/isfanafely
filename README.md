@@ -6,7 +6,7 @@
 
 <table align="center" widht="100%">
   <tr>
-    <th align="center" colspan="4"><a valign="middle">Connect with me</a></th>
+    <th align="center" colspan="4"><a valign="middle">Connect with Me</a></th>
   <tr>
     <td align="center"><a href="https://twitter.com/isfanafely"</a><img valign="middle" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" style="width:100%;"/></td>
     <td align="center"><a href="https://linkedin.com/in/isfanafely"</a><img valign="middle" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="width:100%;"/></td>
