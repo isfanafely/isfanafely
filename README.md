@@ -10,9 +10,9 @@
     <th align="center" colspan="4"><a valign="middle">Connect with me</a></th>
   <tr>
     <td align="center"><a href="https://twitter.com/isfanafely"</a><img valign="middle" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" style="width:100%;"/></td>
-    <td align="center"><a href="https://www.fiverr.com/felyisfana"</a><img valign="middle" valign="middle" height="27px" src="https://img.shields.io/badge/-Fiverr-1DBF73?style=flat-square&logo=Fiverr&logoColor=white" style="width:100%;height:100%;"/></td> 
-    <td align="center"><a href="https://linkedin.com/in/isfanafely"</a><img valign="middle" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="width:100%;" /></td>
-    <td align="center"><a href="https://felyisfana1@gmail.com"</a><img valign="middle" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="width:100%;" /></td>
+    <td align="center"><a href="https://www.fiverr.com/felyisfana"</a><img valign="middle" style="width:100%;height:100%;" height="27px" src="https://img.shields.io/badge/-Fiverr-1DBF73?style=flat-square&logo=Fiverr&logoColor=white"/></td> 
+    <td align="center"><a href="https://linkedin.com/in/isfanafely"</a><img valign="middle" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="width:100%;"/></td>
+    <td align="center"><a href="https://felyisfana1@gmail.com"</a><img valign="middle" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="width:100%;"/></td>
   </tr>
   </tr>
 </table>
