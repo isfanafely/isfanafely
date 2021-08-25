@@ -1,4 +1,3 @@
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 - 👋 Hi, I’m a freelancer
 - 👀 I’m interested in data science, data visualization, machine learning, software testing
