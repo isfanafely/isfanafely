@@ -12,7 +12,7 @@
     <td align="center"><a href="https://linkedin.com/in/isfanafely"</a><img valign="middle" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="width:100%;"/></td>
     <td align="center"><a href="https://felyisfana1@gmail.com"</a><img valign="middle" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="width:100%;"/></td>
   </tr>
-  <td align="center" colspan="4"><a href="https://www.fiverr.com/felyisfana"</a><img valign="middle"  src="https://img.shields.io/badge/Fiverr-Hire%20Me-brightgreen?style=flat-square&logo=Fiverr&logoColor=white" style="width:100%;"/></td> 
+  <td align="center" colspan="4"><a href="https://www.fiverr.com/felyisfana"</a><img valign="middle"  src="https://img.shields.io/badge/Fiverr-brightgreen.svg?style=for-the-badge&logo=fiverr&logoColor=white" style="width:100%;"/></td> 
   </tr>
 </table>
 
