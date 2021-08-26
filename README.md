@@ -33,8 +33,8 @@
     <td align="center"><a href="https://keras.io/"</a><img valign="middle" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" title="Keras" style="width:100%;"/></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://twitter.com/isfanafely"</a><img valign="middle" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" title="Scikit-learn" tyle="width:100%;height:100%"/></td>
-    <td align="center"><a href="https://scikit-learn.org/"</a><img valign="middle" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" title="Selenium" style="width:100%;"/></td>
+    <td align="center"><a href="https://scikit-learn.org/stable/"</a><img valign="middle" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" title="Scikit-learn" tyle="width:100%;height:100%"/></td>
+    <td align="center"><a href="https://www.selenium.dev/"</a><img valign="middle" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" title="Selenium" style="width:100%;"/></td>
     <td align="center"><a href="https://numpy.org/"</a><img valign="middle" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" title="Numpy" style="width:100%;"/></td>
   </tr>
 </table>
