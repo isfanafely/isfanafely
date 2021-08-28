@@ -66,7 +66,7 @@
   </tr>
 </table>
 
-<p align="center" href="https://api.badgr.io/public/assertions/VPHMjkoITpGFMmaO6Wjejw?identity__email=felyisfana1996%40gmail.com"><img  width="5%" height="5%" src="https://api.badgr.io/public/assertions/VPHMjkoITpGFMmaO6Wjejw/image"></p>
+<p align="center" href="https://badgecheck.io/?url=https%3A%2F%2Fapi.badgr.io%2Fpublic%2Fassertions%2FVPHMjkoITpGFMmaO6Wjejw&identity__email=felyisfana1996%40gmail.com"><img  width="5%" height="5%" src="https://api.badgr.io/public/assertions/VPHMjkoITpGFMmaO6Wjejw/image"></p>
 
 [<img align="right" src="https://github.com/isfanafely/isfanafely/blob/main/aa.svg" width="30%" heigth="30%"/>][saweria]
 
