@@ -66,7 +66,7 @@
   </tr>
 </table>
 
-<p align="center" href="https://api.badgr.io/public/assertions/VPHMjkoITpGFMmaO6Wjejw?identity__email=felyisfana1996%40gmail.com"><img  width="120px" height="120px" src="https://api.badgr.io/public/assertions/VPHMjkoITpGFMmaO6Wjejw/image"></p>
+<p align="center" href="https://api.badgr.io/public/assertions/VPHMjkoITpGFMmaO6Wjejw?identity__email=felyisfana1996%40gmail.com"><img  width="5%" height="5%" src="https://api.badgr.io/public/assertions/VPHMjkoITpGFMmaO6Wjejw/image"></p>
 
 [<img align="right" src="https://github.com/isfanafely/isfanafely/blob/main/aa.svg" width="30%" heigth="30%"/>][saweria]
 
