@@ -59,10 +59,10 @@
 
 <table align="center" width="30%" heigth="100%"/>
   <tr>
-    <th align="center" colspan="5"><a valign="middle">Badge</a></th>
+    <th align="center" colspan="2"><a valign="middle">Badge</a></th>
   <tr>
-    <td align="center"><a href="https://www.postman.com/isfanafely"</a><img  width="15%" height="15%" src="https://api.badgr.io/public/assertions/VPHMjkoITpGFMmaO6Wjejw/image"/></td>
-    <td align="center"><a href="https://www.kotakode.com/users/16854/isfanafely"</a><img valign="middle" src="https://storage.googleapis.com/kotakode-prod-public/images/f3d63fce-4ea4-47e8-abdd-5746723d5cb1-Badge-1--1-.png" class="ub-w_100prcnt ub-h_100prcnt ub-box-szg_border-box" style="object-fit: cover;" width="20%" heigth="20%"/></td>
+    <td align="center"><a href="https://www.postman.com/isfanafely"</a><img  width="15%" height="15%" valign="middle" src="https://api.badgr.io/public/assertions/VPHMjkoITpGFMmaO6Wjejw/image"/></td>
+    <td align="center"><a href="https://www.kotakode.com/users/16854/isfanafely"</a><img valign="middle" src="https://storage.googleapis.com/kotakode-prod-public/images/f3d63fce-4ea4-47e8-abdd-5746723d5cb1-Badge-1--1-.png" width="20%" heigth="20%"/></td>
   </tr>
   </tr>
 </table>
