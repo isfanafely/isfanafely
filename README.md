@@ -57,6 +57,18 @@
 
 <br />
 
+<table align="center" width="30%" heigth="100%"/>
+  <tr>
+    <th align="center" colspan="5"><a valign="middle">Badge</a></th>
+  <tr>
+    <td align="center"><a href="https://www.postman.com/isfanafely"</a><img  width="15%" height="15%" src="https://api.badgr.io/public/assertions/VPHMjkoITpGFMmaO6Wjejw/image"/></td>
+    <td align="center"><a href="https://www.kotakode.com/users/16854/isfanafely"</a><img valign="middle" src="https://storage.googleapis.com/kotakode-prod-public/images/f3d63fce-4ea4-47e8-abdd-5746723d5cb1-Badge-1--1-.png" class="ub-w_100prcnt ub-h_100prcnt ub-box-szg_border-box" style="object-fit: cover;" width="20%" heigth="20%"/></td>
+  </tr>
+  </tr>
+</table>
+
+<br />
+
 <table align="center" widht="100%">
   <tr>
     <th align="center" colspan="5"><a valign="middle">Donation</a></th>
@@ -66,7 +78,7 @@
   </tr>
 </table>
 
-<p align="center"><a href="https://badgecheck.io/?url=https%3A%2F%2Fapi.badgr.io%2Fpublic%2Fassertions%2FVPHMjkoITpGFMmaO6Wjejw&identity__email=felyisfana1996%40gmail.com"></a><img  width="7%" height="7%" src="https://api.badgr.io/public/assertions/VPHMjkoITpGFMmaO6Wjejw/image"></p>
+
 
 [<img align="right" src="https://github.com/isfanafely/isfanafely/blob/main/aa.svg" width="30%" heigth="30%"/>][saweria]
 
