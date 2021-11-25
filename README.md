@@ -1,5 +1,5 @@
 
-<p align="center"> ----- 👋 Hi, I’m a freelancer ----- </p>
+<p align="center"> ----- 👋 Hi, I’m a Fely ----- </p>
 <p align="center"> ----- 👀 I’m interested in data science, data visualization, machine learning, software testing ----- </p>
 <p align="center"> ----- 🌱 I’m currently learning python, r, sql, postman ----- </p>
 <p align="center"> ----- 💞️ I’m looking to collaborate on data science, machine learning, postman ----- </p>
