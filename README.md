@@ -1,8 +1,8 @@
 
 <p align="center"> ----- 👋 Hi, I’m a Fely ----- </p>
 <p align="center"> ----- 👀 I’m interested in data science, data visualization, machine learning, software testing ----- </p>
-<p align="center"> ----- 🌱 I’m currently learning python, r, sql, postman ----- </p>
-<p align="center"> ----- 💞️ I’m looking to collaborate on data science, machine learning, postman ----- </p>
+<p align="center"> ----- 🌱 I’m currently learning python, r, sql----- </p>
+<p align="center"> ----- 💞️ I’m looking to collaborate on data science, machine learning ----- </p>
 
 
 <table align="center" width="100%">
@@ -46,28 +46,7 @@
   <tr>
     <th align="center" colspan="3"><a valign="middle">Tools</a></th>
   <tr>
-    <td align="center"><a href="https://www.jetbrains.com/pycharm/"</a><img valign="middle" src="https://img.shields.io/badge/PyCharm-4B4B4B.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/></td>
-     <td align="center" colspan="2"><a href="https://docs.conda.io/en/latest/"</a><img valign="middle" src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white"/></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://www.rstudio.com/"</a><img valign="middle" src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white"/></td>
-    <td align="center"> <a href="https://www.postman.com/"</a><img valign="middle" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/></td>
-  </tr>
-  </tr>
-</table>
-
-<br />
-
-<table align="center" border="0" cellspacing="0" cellpadding="0"/>
-  <tr>
-    <th align="center"><a valign="middle">Badge</a></th>
-  <tr>
-    <td align="center"><a href="https://www.postman.com/isfanafely"</a><img width=20% heigth=20% valign="middle" src="https://api.badgr.io/public/assertions/VPHMjkoITpGFMmaO6Wjejw/image"/></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://www.kotakode.com/users/16854/isfanafely"</a><img width=20% heigth=20% valign="middle" src="https://storage.googleapis.com/kotakode-prod-public/images/f3d63fce-4ea4-47e8-abdd-5746723d5cb1-Badge-1--1-.png"/></td>
-  </tr>
-  </tr>
+    <td align="center"><a href="https://code.visualstudio.com/"</a><img valign="middle" src="https://img.shields.io/badge/VSCode-403dff.svg?&style=for-the-badge&logo=VSCode&logoColor=white"/></td>
 </table>
 
 <br />
