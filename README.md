@@ -1,8 +1,8 @@
 
 <p align="center"> ----- 👋 Hi, I’m a Fely ----- </p>
 <p align="center"> ----- 👀 I’m interested in data science, data visualization, machine learning, software testing ----- </p>
-<p align="center"> ----- 🌱 I’m currently learning python, r, sql----- </p>
-<p align="center"> ----- 💞️ I’m looking to collaborate on data science, machine learning ----- </p>
+<p align="center"> ----- 🌱 I’m currently learning python and r----- </p>
+<p align="center"> ----- 💞️ I’m looking to collaborate on data science and machine learning ----- </p>
 
 
 <table align="center" width="100%">
@@ -26,7 +26,7 @@
   <tr>
     <td align="center"><a href="https://www.python.org/"</a><img valign="middle" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white"/></td>
     <td align="center"><a href="https://www.r-project.org/"</a><img valign="middle" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/></td> 
-    <td align="center"><a href="https://www.mysql.com/"</a><img valign="middle" src="https://img.shields.io/badge/mysql-%23576DC3.svg?style=for-the-badge&logo=mysql&logoColor=white"/></td>
+    <td align="center"><a href="https://scikit-learn.org/stable/"</a><img valign="middle" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/></td>
   </tr>
   <tr>
     <td align="center"><a href="https://pandas.pydata.org/"</a><img valign="middle" src="https://img.shields.io/badge/pandas-7900D8.svg?style=for-the-badge&logo=pandas&logoColor=white"/></td>
@@ -34,8 +34,8 @@
     <td align="center"><a href="https://keras.io/"</a><img valign="middle" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://scikit-learn.org/stable/"</a><img valign="middle" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/></td>
     <td align="center"><a href="https://www.selenium.dev/"</a><img valign="middle" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/></td>
+    <td></td>
     <td align="center"><a href="https://numpy.org/"</a><img valign="middle" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" title="Numpy"/></td>
   </tr>
 </table>
