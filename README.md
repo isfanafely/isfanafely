@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td align="center"><a href="https://www.selenium.dev/"</a><img valign="middle" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/></td>
-    <td></td>
+    <td align="center"><a href="https://julialang.org/"</a><img valign="middle" src="https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white"/></td>
     <td align="center"><a href="https://numpy.org/"</a><img valign="middle" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" title="Numpy"/></td>
   </tr>
 </table>
@@ -46,7 +46,8 @@
   <tr>
     <th align="center" colspan="3"><a valign="middle">Tools</a></th>
   <tr>
-    <td align="center"><a href="https://code.visualstudio.com/"</a><img valign="middle" src="https://img.shields.io/badge/VSCode-403dff.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white"/></td>
+    <td align="center"><a href="https://www.linux.org/"</a><img valign="middle" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></td>
+    <td align="center"><a href="https://code.visualstudio.com/"</a><img valign="middle" src="https://img.shields.io/badge/VSCode-063e99.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white"/></td>
     <td align="center"><a href="https://jupyter.org/"</a><img valign="middle" src="https://img.shields.io/badge/jupyter-e89210.svg?style=for-the-badge&logo=jupyter&logoColor=white"/></td>
 </table>
 
