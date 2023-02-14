@@ -1,8 +1,7 @@
 
 <p align="center"> ----- 👋 Hi, I’m a Fely ----- </p>
-<p align="center"> ----- 👀 I’m interested in data science, data visualization, machine learning, software testing ----- </p>
-<p align="center"> ----- 🌱 I’m currently learning python and r----- </p>
-<p align="center"> ----- 💞️ I’m looking to collaborate on data science and machine learning ----- </p>
+<p align="center"> ----- 👀 I’m interested in data science and machine learning----- </p>
+<p align="center"> ----- 🌱 I’m currently learning Python, R and Julia----- </p>
 
 
 <table align="center" width="100%">
@@ -34,7 +33,7 @@
     <td align="center"><a href="https://keras.io/"</a><img valign="middle" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://www.selenium.dev/"</a><img valign="middle" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/></td>
+    <td align="center"><a href="[https://www.selenium.dev/](https://plotly.com/)"</a><img valign="middle" src="https://img.shields.io/badge/Plotly-43B02A?style=for-the-badge&logo=Plotly&logoColor=white"/></td>
     <td align="center"><a href="https://julialang.org/"</a><img valign="middle" src="https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white"/></td>
     <td align="center"><a href="https://numpy.org/"</a><img valign="middle" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" title="Numpy"/></td>
   </tr>
