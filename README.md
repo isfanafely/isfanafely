@@ -21,21 +21,11 @@
 
 <table align="center" widht="100%">
   <tr>
-    <th align="center" colspan="3">Languages and Modules</th>
+    <th align="center" colspan="3">Languages</th>
   <tr>
     <td align="center"><a href="https://www.python.org/"</a><img valign="middle" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white"/></td>
     <td align="center"><a href="https://www.r-project.org/"</a><img valign="middle" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/></td> 
-    <td align="center"><a href="https://scikit-learn.org/stable/"</a><img valign="middle" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://pandas.pydata.org/"</a><img valign="middle" src="https://img.shields.io/badge/pandas-7900D8.svg?style=for-the-badge&logo=pandas&logoColor=white"/></td>
-    <td align="center"><a href="https://www.tensorflow.org/"</a><img valign="middle" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/></td>
-    <td align="center"><a href="https://keras.io/"</a><img valign="middle" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="[https://www.selenium.dev/](https://plotly.com/)"</a><img valign="middle" src="https://img.shields.io/badge/Plotly-43B02A?style=for-the-badge&logo=Plotly&logoColor=white"/></td>
     <td align="center"><a href="https://julialang.org/"</a><img valign="middle" src="https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white"/></td>
-    <td align="center"><a href="https://numpy.org/"</a><img valign="middle" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" title="Numpy"/></td>
   </tr>
 </table>
 
