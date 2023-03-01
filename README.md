@@ -5,11 +5,12 @@
 
 <table align="center" width="100%">
   <tr>
-    <th align="center" colspan="4"><a valign="middle">Contact Me</a></th>
+    <th align="center" colspan="3"><a valign="middle">Contact Me</a></th>
   <tr>
     <td align="center"><a href="https://twitter.com/isfanafely"</a><img valign="middle" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></td>
-    <td align="center" colspan="4"><a href="https://www.fiverr.com/felyisfana"</a><img valign="middle"  src="https://img.shields.io/badge/Fiverr-brightgreen.svg?style=for-the-badge&logo=fiverr&logoColor=white"/></td> 
+    <td align="center"><a href="https://www.fiverr.com/felyisfana"</a><img valign="middle"  src="https://img.shields.io/badge/Fiverr-brightgreen.svg?style=for-the-badge&logo=fiverr&logoColor=white"/></td> 
     <td align="center"><a href="mailto:felyisfana1@gmail.com"</a><img valign="middle" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></td>
+   
 </table>
 
 <br />
