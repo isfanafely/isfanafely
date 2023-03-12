@@ -33,7 +33,7 @@
     <th align="center" colspan="3"><a valign="middle">Tools</a></th>
   <tr>
     <td align="center"><a href="https://www.linux.org/"</a><img valign="middle" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></td>
-    <td align="center"><a href="https://code.visualstudio.com/"</a><img valign="middle" src="https://img.shields.io/badge/VSCode-063e99.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white"/></td>
+    <td align="center"><a href="https://code.visualstudio.com/"</a><img valign="middle" src="https://img.shields.io/badge/VSCodium-063e99.svg?&style=for-the-badge&logo=vscodium&logoColor=white"/></td>
     <td align="center"><a href="https://jupyter.org/"</a><img valign="middle" src="https://img.shields.io/badge/jupyter-e89210.svg?style=for-the-badge&logo=jupyter&logoColor=white"/></td>
 </table>
 
