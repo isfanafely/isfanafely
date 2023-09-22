@@ -38,19 +38,3 @@
 </table>
 
 <br />
-
-<table align="center" width="100%">
-  <tr>
-    <th align="center" colspan="5"><a valign="middle">Donation</a></th>
-  <tr>
-    <td align="center"><a href="https://paypal.me/isfanafelyID"</a><img valign="middle" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" style="width:100%;"/></td>
-  </tr>
-  </tr>
-</table>
-
-
-
-[<img align="right" src="https://github.com/isfanafely/isfanafely/blob/main/aa.svg" width="30%" heigth="30%"/>][saweria]
-
-
-[saweria]: https://saweria.co/isfanafely 
