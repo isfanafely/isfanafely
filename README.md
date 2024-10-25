@@ -3,26 +3,15 @@
 <p align="center"> ----- 👀 I’m interested in data science----- </p>
 
 
-<table align="center" width="100%">
-  <tr>
-    <th align="center" colspan="3"><a valign="middle">Contact Me</a></th>
-  <tr>
-    <td align="center"><a href="https://twitter.com/isfanafely"</a><img valign="middle" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></td>
-    <td align="center"><a href="https://www.fiverr.com/felyisfana"</a><img valign="middle"  src="https://img.shields.io/badge/Fiverr-brightgreen.svg?style=for-the-badge&logo=fiverr&logoColor=white"/></td> 
-    <td align="center"><a href="mailto:felyisfana1@gmail.com"</a><img valign="middle" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></td>
-   
-</table>
-
 <br />
 <br />
 
 <table align="center" widht="100%">
   <tr>
-    <th align="center" colspan="3">Languages</th>
+    <th align="center" colspan="2">Languages</th>
   <tr>
     <td align="center"><a href="https://www.python.org/"</a><img valign="middle" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white"/></td>
     <td align="center"><a href="https://www.r-project.org/"</a><img valign="middle" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/></td> 
-    <td align="center"><a href="https://julialang.org/"</a><img valign="middle" src="https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white"/></td>
   </tr>
 </table>
 
