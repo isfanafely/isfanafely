@@ -1,6 +1,6 @@
 
 <p align="center"> ----- 👋 Hi, I’m a Fely ----- </p>
-<p align="center"> ----- 👀 I’m interested in data science and machine learning----- </p>
+<p align="center"> ----- 👀 I’m interested in data science----- </p>
 
 
 <table align="center" width="100%">
